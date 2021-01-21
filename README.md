@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 I'm a current sophomore computer science student at Princeton University.
 
 My latest project: https://projects.dailyprincetonian.com/what-to-read-and-watch-quarantine/
+
 What I'm currently working on: https://www.kickstarter.com/projects/briantieu/norse-spirit-animals
+
 Find more at: http://linkedin.com/briantieu
