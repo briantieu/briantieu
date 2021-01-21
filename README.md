@@ -20,4 +20,4 @@ My latest project: https://projects.dailyprincetonian.com/what-to-read-and-watch
 
 What I'm currently working on: https://www.kickstarter.com/projects/briantieu/norse-spirit-animals
 
-Find more at: http://linkedin.com/briantieu
+Find more at: http://linkedin.com/in/briantieu
