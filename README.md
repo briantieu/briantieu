@@ -18,6 +18,8 @@ I'm a current sophomore computer science student at Princeton University.
 
 My latest projects: https://projects.dailyprincetonian.com/what-to-read-and-watch-quarantine/
                     https://projects.dailyprincetonian.com/introducing-black-futures-princeton/
+                    https://projects.dailyprincetonian.com/princeton-university-birding-society-earth-day-sustainability/
+                    https://commencement2021.dailyprincetonian.com/
 
 What I'm currently working on: https://www.kickstarter.com/projects/briantieu/norse-spirit-animals
 
