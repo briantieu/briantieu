@@ -26,3 +26,5 @@ My latest projects: https://projects.dailyprincetonian.com/frosh-survey-25
 What I'm currently working on: https://www.kickstarter.com/projects/briantieu/norse-spirit-animals
 
 Find more at: http://linkedin.com/in/briantieu
+
+[![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=briantieu)](https://github.com/briantieu/github-readme-stats)
