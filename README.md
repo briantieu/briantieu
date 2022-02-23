@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 -->
 I'm a current junior computer science student at Princeton University.
 
-My latest projects: https://projects.dailyprincetonian.com/frosh-survey-25
+My latest projects: https://projects.dailyprincetonian.com/colors-of-princeton/
+                    https://projects.dailyprincetonian.com/frosh-survey-25/
                     https://commencement2021.dailyprincetonian.com/
                     https://projects.dailyprincetonian.com/what-to-read-and-watch-quarantine/
                     https://projects.dailyprincetonian.com/introducing-black-futures-princeton/
                     https://projects.dailyprincetonian.com/princeton-university-birding-society-earth-day-sustainability/
                     https://commencement2021.dailyprincetonian.com/
+                    https://www.kickstarter.com/projects/briantieu/norse-spirit-animals/
 
-What I'm currently working on: https://www.kickstarter.com/projects/briantieu/norse-spirit-animals
 
-Find more at: http://linkedin.com/in/briantieu
+My Etsy store: https://etsy.com/shop/bearthumbs/
+Find more at: http://linkedin.com/in/briantieu/
 
 [![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=briantieu)](https://github.com/briantieu/github-readme-stats)
