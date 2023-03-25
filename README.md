@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a current junior computer science student at Princeton University.
-
-My latest projects: https://projects.dailyprincetonian.com/colors-of-princeton/
+I'm a current senior computer science student at Princeton University.
+Some recent projects: https://projects.dailyprincetonian.com/colors-of-princeton/
                     https://projects.dailyprincetonian.com/frosh-survey-25/
                     https://commencement2021.dailyprincetonian.com/
                     https://projects.dailyprincetonian.com/what-to-read-and-watch-quarantine/
